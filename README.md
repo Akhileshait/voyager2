@@ -1,4 +1,4 @@
 # Voyager 
 // Deployed
-visit here
+visit here:
 bright-cod-39.deno.dev
