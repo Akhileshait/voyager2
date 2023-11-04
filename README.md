@@ -1,4 +1,4 @@
 # Voyager 
 // Deployed
 ### visit here:
-[VOYAGER](bright-cod-39.deno.dev)
+[VOYAGER](https://bright-cod-39.deno.dev/)
